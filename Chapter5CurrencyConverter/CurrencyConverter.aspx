@@ -24,7 +24,7 @@
                 <br />
                 <br />
                 <img id="Graph" class="ImageBorder" alt="Currency Graph" src="/images/pic0.png" runat="server" />
-                <p class="Results" id="Result" runat="server"></p>
+                <p id="Result" runat="server"></p>
             </div>
         </div>
     </form>
