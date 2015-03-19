@@ -7,7 +7,7 @@
                 <h2>Card Maker</h2>
                 <br />
                 Choose a background color:
-                    <br />
+                 <br />
                 <asp:DropDownList ID="lstBackColor" runat="server" Height="22px" Width="194px" AutoPostBack="True" OnSelectedIndexChanged="ControlChanged"></asp:DropDownList><br />
                 <br />
                 Choose a foreground (text) color:<br />
